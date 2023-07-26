@@ -51,6 +51,17 @@ nav ul li a:hover {
 }
 
 /* Style the landing section */
+#projects h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+#projects h2 {
+    text-align: left;
+    padding: 20px;
+
+
+}
 #landing {
     text-align: center;
     padding: 50px;
@@ -58,6 +69,15 @@ nav ul li a:hover {
     margin: 20px;
 }
 
+#landing h1 {
+    font-size: 30px;
+    padding: 20px;
+}
+
+#landing img {
+    width: 70%;
+    margin: 0 auto;
+}
 /* Style the main content sections */
 section {
     padding: 50px;

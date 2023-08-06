@@ -59,9 +59,10 @@ nav ul li a:hover {
 #projects h2 {
     text-align: left;
     padding: 20px;
-
-
 }
+/* #project2 iframe {
+    padding: 20px   
+} */
 #landing {
     text-align: center;
     padding: 50px;
